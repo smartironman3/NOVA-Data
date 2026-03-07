@@ -27,6 +27,20 @@
     },
     {
         "number": 2,
+        "route": "105",
+        "destZ": "大學站",
+        "destY": "機場",
+        "maxPZ": "2",
+        "priceZ1": "26.2",
+        "halfpriceZ1": "13.1",
+        "priceZ2": "6.5",
+        "halfpriceZ2": "3.3",
+        "maxPY": "1",
+        "priceY1": "26.2",
+        "halfpriceY1": "13.1"
+    },
+    {
+        "number": 3,
         "route": "106",
         "destZ": "凱琳東",
         "destY": "機場",
@@ -40,7 +54,7 @@
         "halfpriceY1": "13.4"
     },
     {
-        "number": 3,
+        "number": 4,
         "route": "107",
         "destZ": "尚弦居",
         "destY": "機場",
